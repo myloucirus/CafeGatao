@@ -1,1 +1,77 @@
+.logo{
+    width: 7%;
+    height: 7%;
+    margin: 30px;
+    border-radius: 50px;
+}
+.cabecalho{
+    background-color: blanchedalmond;
+    color: rgb(58, 27, 2);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    margin-top: 50px;
+}
 
+ .menunav{
+    margin-left: 700px;
+    margin-top: 50px;
+    color: rgb(53, 21, 3);
+    text-decoration: dotted;
+    padding: 10px;
+    
+ }
+ .menunav a{
+    border-color: rgb(255, 253, 253);
+    padding: 10px;
+    background-color: rgb(39, 20, 3);
+    color: aliceblue;
+    border-radius: 5px;
+ }
+
+ .figura1{
+    width: 50%;
+    border-radius: 10px;
+ }
+
+ .principal h2{
+  color: rgb(31, 15, 1);
+ }
+
+ .principal{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+ }
+
+ .apresentacao{
+    display: inline-flex;
+    vertical-align: middle;
+ }
+ .produtos{
+     background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+ }
+.produtos div{
+      border-color: rgb(255, 253, 253);
+    padding: 10px;
+    background-color: rgb(39, 20, 3);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+footer{
+     background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
